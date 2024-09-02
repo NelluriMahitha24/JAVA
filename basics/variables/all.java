@@ -18,6 +18,5 @@ class All{
         a1.a=10;
         System.out.println(a1.a+a1.b+a1.c);
         //220    10+200+10
-        
     }
 }
