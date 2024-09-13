@@ -14,7 +14,6 @@ class Variable{
         System.out.println(v2.id);
         Variable v3= new Variable();
         System.out.println(v3.min_bal);
-        System.out.println(Variable.min_bal);
-        
+        System.out.println(Variable.min_bal);  
     }
 }
