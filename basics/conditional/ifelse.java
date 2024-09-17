@@ -1,5 +1,6 @@
 class If{
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int a=-10;
         if (a>0)
         {
@@ -9,6 +10,6 @@ class If{
         {
             System.out.println("number is negative"); 
         }
-        
+
     }
 }
